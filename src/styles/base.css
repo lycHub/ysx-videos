@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+html,body,#app {
+  @apply h-full;
+}
+
+body {
+  @apply text-sm break-all font-sans text-grey-9 bg-grey-3;
+}
+
+a {
+  @apply text-blue-6 cursor-pointer no-underline;
+}
+
+svg,
+video,
+canvas,
+audio,
+iframe,
+embed,
+object {
+  @apply block align-middle w-full h-full;
+}
+
+img {
+  @apply inline-block w-full;
+}
+
+
+
+
+button {
+  -webkit-tap-highlight-color: transparent;
+}
+
+::-webkit-scrollbar {
+  @apply w-2 h-2;
+}
+
+::-webkit-scrollbar-thumb {
+    @apply rounded-md bg-grey-6;
+}

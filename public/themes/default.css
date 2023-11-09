@@ -1,0 +1,24 @@
+:root {
+  --color-grey-1: 247 248 250;
+  --color-grey-2: 242 243 245;
+  --color-grey-3: 229 230 235;
+  --color-grey-4: 201 205 212;
+  --color-grey-5: 169 174 184;
+  --color-grey-6: 134 144 156;
+  --color-grey-7: 107 119 133;
+  --color-grey-8: 78 89 105;
+  --color-grey-9: 39 46 59;
+  --color-grey-10: 29 33 41;
+
+
+  --color-blue-1: 232 243 255;
+  --color-blue-2: 190 218 255;
+  --color-blue-3: 148 191 255;
+  --color-blue-4: 106 161 255;
+  --color-blue-5: 64 128 255;
+  --color-blue-6: 22 93 255;
+  --color-blue-7: 14 66 210;
+  --color-blue-8: 7 44 166;
+  --color-blue-9: 3 26 121;
+  --color-blue-10: 0 13 77;
+}

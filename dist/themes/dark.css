@@ -1,0 +1,26 @@
+:root[data-theme="dark"] {
+
+  --color-grey-1: 29 33 41;
+  --color-grey-2: 39 46 59;
+  --color-grey-3: 78 89 105;
+  --color-grey-4: 107 119 133;
+  --color-grey-5: 134 144 156;
+  --color-grey-6: 169 174 184;
+  --color-grey-7: 201 205 212;
+  --color-grey-8: 229 230 235;
+  --color-grey-9: 242 243 245;
+  --color-grey-10: 247 248 250;
+
+
+
+  --color-blue-1: 245 232 255;
+  --color-blue-2: 221 190 246;
+  --color-blue-3: 195 150 237;
+  --color-blue-4: 168 113 227;
+  --color-blue-5: 141 78 218;
+  --color-blue-6: 114 46 209;
+  --color-blue-7: 85 29 176;
+  --color-blue-8: 60 16 143;
+  --color-blue-9: 39 6 110;
+  --color-blue-10: 22 0 77;
+}
