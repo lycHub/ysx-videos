@@ -4,8 +4,8 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "tsc && vite",
-    "build": "vite build --base=/ysx-videos/",
+    "start": "tsc && vite",
+    "build": "vite build --base=/ysx-videos/ --outDir=docs",
     "preview": "vite preview"
   },
   "devDependencies": {
